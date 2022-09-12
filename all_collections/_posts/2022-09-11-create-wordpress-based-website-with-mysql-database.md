@@ -40,5 +40,5 @@ categories: ["wordpress", "mysql", "tutorial", "assignment", "database security"
 13. Run the web by accessing: [localhost/wordpress](localhost/wordpress)  
 ![13](https://github.com/wyebit/wyebit.github.io/blob/main/assets/images/posts/2022-09-11-create-wordpress-based-website-with-mysql-database/13.png?raw=true)
 14. And if you want further costumization, go for: [localhost/wordpress/wp-admin](localhost/wordpress/wp-admin), then you can continue  
-<![14](https://github.com/wyebit/wyebit.github.io/blob/main/assets/images/posts/2022-09-11-create-wordpress-based-website-with-mysql-database/14.png?raw=true)
-15. Voila!:clap:
+![14](https://github.com/wyebit/wyebit.github.io/blob/main/assets/images/posts/2022-09-11-create-wordpress-based-website-with-mysql-database/14.png?raw=true)
+15. Voila!  :clap:

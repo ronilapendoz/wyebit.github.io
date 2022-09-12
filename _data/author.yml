@@ -1,0 +1,23 @@
+name: Muhammad Fairuz
+dp: https://raw.githubusercontent.com/wyebit/wyebit.github.io/main/assets/images/author/me.jpg
+description: "
+  <p>
+    A passionate cyber security enthusiast from Indonesia.
+  </p>
+  <br/>
+  <p>
+    You should follow him on <a href='https://github.com/wyebit' target='_blank'>Github</a>
+  </P>
+"
+email: fairuz.infosec@gmail.com
+contact:
+  - title: linkedin
+    url: https://www.linkedin.com/in/fairuz-amzar
+  - title: github
+    url: https://github.com/wyebit
+  - title: twitter
+    url: https://twitter.com/
+  - title: dev
+    url: https://dev.to/
+  - title: email
+    url: mailto:fairuz.infosec@gmail.com

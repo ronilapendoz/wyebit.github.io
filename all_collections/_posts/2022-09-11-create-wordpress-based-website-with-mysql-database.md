@@ -12,7 +12,7 @@ categories: ["wordpress", "mysql", "tutorial", "assignment", "database security"
 - Some good internet connection
 
 ## Here we go:
-1.	Download XAMPP on the website, and adjust the version into the one you prefer  
+14.	Download XAMPP on the website, and adjust the version into the one you prefer  
 ![1](https://github.com/wyebit/wyebit.github.io/blob/main/assets/images/posts/2022-09-11-create-wordpress-based-website-with-mysql-database/1.png?raw=true)
 2.	Install and follow the settings by default (next till the end)  
 ![2](https://github.com/wyebit/wyebit.github.io/blob/main/assets/images/posts/2022-09-11-create-wordpress-based-website-with-mysql-database/2.png?raw=true)

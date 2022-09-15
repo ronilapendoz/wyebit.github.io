@@ -24,7 +24,7 @@ Windows OS
 ![7](https://github.com/wyebit/wyebit.github.io/blob/main/assets/images/posts/2022-09-15-create-2-VM-1-VM-with-3-wordpress%20inside-and-1-VM-with-3-databases-inside/7.png?raw=true)
 8.	Here it is, the preview of multiple wordpress in one host  
 ![8](https://github.com/wyebit/wyebit.github.io/blob/main/assets/images/posts/2022-09-15-create-2-VM-1-VM-with-3-wordpress%20inside-and-1-VM-with-3-databases-inside/8.png?raw=true)
-9.	Done installing the wordpress CMS, next we’re going to connect wordpress VM to databases VM, here’s the reference; https://www.linode.com/docs/guides/configure-wordpress-remote-database/ 
+9.	Done installing the wordpress CMS, next we’re going to connect wordpress VM to databases VM, here’s the reference; [Wordpress Remote Database Tutorial](https://www.linode.com/docs/guides/configure-wordpress-remote-database/)
 10.	This is how it looks when it done having a connection between wordpress VM and database VM  
 ![10](https://github.com/wyebit/wyebit.github.io/blob/main/assets/images/posts/2022-09-15-create-2-VM-1-VM-with-3-wordpress%20inside-and-1-VM-with-3-databases-inside/10.png?raw=true)
 11.	Continue the site registration and then try to login to admin page, afterwards we’re going to costumize the site based on our preferences  

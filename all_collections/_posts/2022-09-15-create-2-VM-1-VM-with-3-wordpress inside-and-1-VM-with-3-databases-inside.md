@@ -33,4 +33,4 @@ Windows OS
 ![12](https://github.com/wyebit/wyebit.github.io/blob/main/assets/images/posts/2022-09-15-create-2-VM-1-VM-with-3-wordpress%20inside-and-1-VM-with-3-databases-inside/12.png?raw=true)
 ![12-2](https://github.com/wyebit/wyebit.github.io/blob/main/assets/images/posts/2022-09-15-create-2-VM-1-VM-with-3-wordpress%20inside-and-1-VM-with-3-databases-inside/12-2.png?raw=true)
 ![12-3](https://github.com/wyebit/wyebit.github.io/blob/main/assets/images/posts/2022-09-15-create-2-VM-1-VM-with-3-wordpress%20inside-and-1-VM-with-3-databases-inside/12-3.png?raw=true)
-13.	Voila! :clap:
+13.	Voila!:clap:

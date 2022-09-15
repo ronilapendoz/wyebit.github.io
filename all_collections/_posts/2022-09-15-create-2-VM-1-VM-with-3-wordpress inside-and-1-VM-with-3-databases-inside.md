@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Create 2 VM, 1 VM with 3 wordpress inside, and 1 VM with 3 databases inside
+title: Create 2 VM, 1 VM with 3 Wordpress Inside, and 1 VM with 3 Databases Inside
 date: 2022-09-15
 categories: ["wordpress", "mysql", "tutorial", "assignment", "database security"]
 ---

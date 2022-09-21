@@ -17,6 +17,7 @@ categories: ["wordpress", "mysql", "tutorial", "assignment", "database security"
 
 ![topology](https://github.com/wyebit/wyebit.github.io/blob/main/assets/images/posts/2022-09-15-create-2-VM-1-VM-with-3-wordpress%20inside-and-1-VM-with-3-databases-inside/topology.png?raw=true)
 
+Here we go:
 1.	Preserve all of the requirements I have mentioned above
 2.	Install the Oracle VM VirtualBox app, and get it done. About how to install it step by step, I would point you to an article that provide more details; [VirtualBox Installation Tutorial](https://www.virtualbox.org/manual/ch02.html)
 3.	Install the Ubuntu Server ISO file on Oracle VM VirtualBox app. As usual I won’t tell you how to do it, instead I could offer an article about it, because it will be cost me more time and space, also it’s not our main objective right here. Here’s the article; [Ubuntu Server Installation Tutorial](https://adinusa.id/content/post/blogs/panduan-install-ubuntu-server-di-virtualbox/)

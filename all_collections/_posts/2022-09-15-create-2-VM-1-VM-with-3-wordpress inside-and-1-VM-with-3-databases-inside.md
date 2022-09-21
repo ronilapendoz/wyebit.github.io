@@ -14,6 +14,7 @@ categories: ["wordpress", "mysql", "tutorial", "assignment", "database security"
 - [Wordpress package](https://wordpress.org/download/)  
 
 > This is the topology that I used  
+![topology](https://github.com/wyebit/wyebit.github.io/blob/main/assets/images/posts/2022-09-15-create-2-VM-1-VM-with-3-wordpress%20inside-and-1-VM-with-3-databases-inside/topology.png?raw=true)
 
 1.	Preserve all of the requirements I have mentioned above
 2.	Install the Oracle VM VirtualBox app, and get it done. About how to install it step by step, I would point you to an article that provide more details; [VirtualBox Installation Tutorial](https://www.virtualbox.org/manual/ch02.html)

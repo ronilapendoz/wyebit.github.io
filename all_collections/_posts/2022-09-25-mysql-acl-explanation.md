@@ -60,7 +60,7 @@ It displayed that we can’t show all of the columns in employees table, because
 ![case4-3](https://github.com/wyebit/wyebit.github.io/blob/main/assets/images/posts/2022-09-25-mysql-acl-explanation/case4-3.png?raw=true)  
 
 ## Source
-- [](https://dev.mysql.com/doc/refman/8.0/en/privileges-provided.html)
-- [](https://www.strongdm.com/blog/mysql-create-user-manage-access-privileges-how-to)  
+- https://dev.mysql.com/doc/refman/8.0/en/privileges-provided.html
+- https://www.strongdm.com/blog/mysql-create-user-manage-access-privileges-how-to
 
 Thanks!🙏

@@ -12,11 +12,12 @@ Locks and login credentials are two analogous mechanisms of access control.
 In MAC, users do not have much freedom to determine who has access to their files. For example, security clearance of users and classification of data (as confidential, secret or top secret) are used as security labels to define the level of trust.
 Example on MySQL:
 There are 3 roles exist in a MySQL database system, every role has pre-determined privilege given by the administrator, the higher the level, the more they gained privilege. In this case, we are using 3 level, start from the highest level is level 1.  
-**Role**|**Privilege**|**Analogy**
-:-----:|:-----:|:-----:
-Level 1|Global level privilege – can access all things in MySQL|↑❌↓✔️
-Level 2|Database level privilege – can only access database that been given permission by admin|↑❌↓✔️
-Level 3|Table level privilege – can only access table that been given permission by admin|↑❌↓✔️  
+
+| Role    | Privilege                                                                               | Analogy |
+| ------- | --------------------------------------------------------------------------------------- | ------- |
+| Level 1 | Global level privilege – can access all things in MySQL                                 | ↑ ❌     | ↓ ✔️ |
+| Level 2 | Database level privilege – can only access database that been given permission by admin | ↑ ❌     | ↓ ✔️ |
+| Level 3 | Table level privilege – can only access table that been given permission by admin       | ↑ ❌     | ↓ ✔️ |
 
 Level 1:  
 
@@ -38,11 +39,12 @@ If the administrator wanted to share a data, admin could just give a privilege t
 RBAC allows access based on the job title. RBAC largely eliminates discretion when providing access to objects. For example, a human resources specialist should not have permissions to create network accounts; this should be a role reserved for network administrators.  
 Example on MySQL:  
 So, we are going to assign roles that we created before in MAC section. There are 3 roles, that is level 1, level 2, and level 3. Let’s hit it up!  
-**User**|**Role**
-:-----:|:-----:
-Michael as a Data Administrator|Level 1
-John as a Database Administrator|Level 2
-Richard as an Office Worker|Level 3  
+
+| User                             | Role    |
+| -------------------------------- | ------- |
+| Michael as a Data Administrator  | Level 1 |
+| John as a Database Administrator | Level 2 |
+| Richard as an Office Worker      | Level 3 | 
 
 Roles Assigning and User Creation:  
  

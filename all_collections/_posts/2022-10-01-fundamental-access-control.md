@@ -23,7 +23,7 @@ Level 1:
 Could do anything in MySQL, literally.  
 Level 2:  
 ![mac-2](https://github.com/wyebit/wyebit.github.io/blob/main/assets/images/posts/2022-10-01-fundamental-access-control/mac-2.png?raw=true)  
-Could do anything in `classicmodels’ database.  
+Could do anything in `classicmodels` database.  
 Level 3:  
 ![mac-3](https://github.com/wyebit/wyebit.github.io/blob/main/assets/images/posts/2022-10-01-fundamental-access-control/mac-3.png?raw=true)  
 Could do anything in `customers` table of `classicmodels` database.

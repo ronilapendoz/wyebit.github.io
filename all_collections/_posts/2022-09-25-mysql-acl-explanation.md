@@ -59,7 +59,7 @@ It displayed that we can’t show all of the columns in employees table, because
 ![case4-2](https://github.com/wyebit/wyebit.github.io/blob/main/assets/images/posts/2022-09-25-mysql-acl-explanation/case4-2.png?raw=true)  
 ![case4-3](https://github.com/wyebit/wyebit.github.io/blob/main/assets/images/posts/2022-09-25-mysql-acl-explanation/case4-3.png?raw=true)  
 
-## Source
+## References
 - _MySQL 8.0 Reference Manual :: 6.2.2 privileges provided by mysql_. MySQL. (n.d.). Retrieved September 26, 2022, from [https://dev.mysql.com/doc/refman/8.0/en/privileges-provided.html](https://dev.mysql.com/doc/refman/8.0/en/privileges-provided.html)
 - Brown, S. (2022, July 27). _MySQL Create User &amp; Grant Permissions [tutorial]_. StrongDM. Retrieved September 26, 2022, from [https://www.strongdm.com/blog/mysql-create-user-manage-access-privileges-how-to](https://www.strongdm.com/blog/mysql-create-user-manage-access-privileges-how-to)
 
